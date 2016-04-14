@@ -6,4 +6,5 @@ class MojoCup <Cup
   end
 
 
+
 end
